@@ -1,7 +1,9 @@
 README
 
 The following readme describes the structure of the R code used for the manuscript titled “Presence-only habitat suitability models for Vulnerable Marine Ecosystem indicator taxa in the South Pacific have reached their predictive limit” 
-authored by Fabrice Stephenson, Ashley A. Rowden, Owen F. Anderson, C. Roland Pitcher, Matt H. Pinkerton, Grady Petersen, David A. Bowden. 
+authored by Fabrice Stephenson, Ashley A. Rowden, Owen F. Anderson, C. Roland Pitcher, Matt H. Pinkerton, Grady Petersen, David A. Bowden.
+
+Available at: https://doi.org/10.1093/icesjms/fsab162 
 
 1.Functions.R  - contains functions used in subsequent R scripts
 
